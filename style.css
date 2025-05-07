@@ -1,0 +1,21 @@
+#main {
+    background-color: #E7F2E4; 
+    border-radius: 25px;
+    color: #213448;
+    font-family: Arial, sans-serif;
+}
+
+#buttons {
+    text-align: center;
+    color: #948979;
+}
+
+#image {
+    width: 100%;
+}
+
+#card {
+    border-radius: 25px;
+    background-color: #F8F8E1; 
+    color: #000000;
+}
